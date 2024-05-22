@@ -1,2 +1,1 @@
-# Familiarity-circuit-model
-Code for the simulation of the familiarity circuit model
+# Fam_circuit_model
